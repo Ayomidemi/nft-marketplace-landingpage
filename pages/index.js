@@ -19,6 +19,7 @@ export default function Home() {
           showBtn
           mockupImg={assets.homeHero}
           banner="banner"
+          // className='banner'
         />
         <SectionWrapper
           title="Smart User Interface Marketplace"
