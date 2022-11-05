@@ -5,50 +5,50 @@
 @tailwind utilities;
 
 .banner {
-  background: url('../public/assets/banner.svg') !important;
-  background-size: cover !important;
-  background-position: center !important;
-  background-repeat: no-repeat !important;
-  height: 100% !important;
-  width: 100% !important;
+  background: url('/banner.svg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
 }
 
 .banner02 {
-  background: url('../public/assets/banner02.svg') !important;
-  background-color: #0b65c6 !important;
-  background-size: cover !important;
-  background-position: center !important;
-  background-repeat: no-repeat !important;
-  height: 100% !important;
-  width: 100% !important;
+  background: url('/banner02.svg');
+  background-color: #0b65c6;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
 }
 
 .banner03 {
-  background: url('../public/assets/banner03.svg') !important;
-  background-size: cover !important;
-  background-position: center !important;
-  background-repeat: no-repeat !important;
-  height: 100% !important;
-  width: 100% !important;
+  background: url('/banner03.svg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
 }
 
 .banner04 {
-  background: url('../public/assets/banner04.svg') !important;
-  background-size: cover !important;
-  background-position: center !important;
-  background-repeat: no-repeat !important;
-  height: 100% !important;
-  width: 100% !important;
+  background: url('/banner04.svg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
 }
 
 .fadeLeftMini {
-  animation: fadeLeftMini 1s !important;
-  animation-fill-mode: both !important;
+  animation: fadeLeftMini 1s;
+  animation-fill-mode: both;
 }
 
 .fadeRightMini {
-  animation: fadeRightMini 1s !important;
-  animation-fill-mode: both !important;
+  animation: fadeRightMini 1s;
+  animation-fill-mode: both;
 }
 
 @keyframes fadeLeftMini {
